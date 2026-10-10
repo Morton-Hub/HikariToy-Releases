@@ -1,7 +1,7 @@
 {
-  "versionCode": 6000071,
-  "versionName": "0.6.0-dev.71",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-71/HikariToy-development.apk",
-  "sha256": "cb136820a37e0cde9bdaa53eb13a1f05986170e409fe9d46c1aa7e8c3a53f8b3",
+  "versionCode": 6000072,
+  "versionName": "0.6.0-dev.72",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-72/HikariToy-development.apk",
+  "sha256": "ea0c69ff8d14f1131fe00c3d6d8a90178b8198ae91f9f9f265fa67777734215e",
   "changelog": "Build automatique de la branche main."
 }
