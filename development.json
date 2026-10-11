@@ -1,7 +1,7 @@
 {
-  "versionCode": 7000078,
-  "versionName": "0.7.0-dev.78",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-78/HikariToy-development.apk",
-  "sha256": "162c251e10f0474aa4e0c5ed82d04ac46083c3258024cadbc8e6318acb6ce152",
+  "versionCode": 7000079,
+  "versionName": "0.7.0-dev.79",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-79/HikariToy-development.apk",
+  "sha256": "3ccf480c27ecc9a372dab29e4accfaaf5ea920fb0db534da5962d01017c574bf",
   "changelog": "Hikari Runtime 0.7 expérimental : moteur RPG Maker intégré pour tester Infinite Fusion sans JoiPlay. Fonctionnement non encore validé sur téléphone."
 }
