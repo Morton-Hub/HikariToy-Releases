@@ -1,7 +1,7 @@
 {
-  "versionCode": 7010085,
-  "versionName": "0.7.1-dev.85",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-85/HikariToy-development.apk",
-  "sha256": "a1ecda3ed80838ddb79a9a16bbbd27666505d4f4f3f9068c8e52dc1510041213",
+  "versionCode": 7010086,
+  "versionName": "0.7.1-dev.86",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-86/HikariToy-development.apk",
+  "sha256": "0c42a7a364de3fe51590afb90f14f5c0703cab4b23a20c2b201e6b09a17d8296",
   "changelog": "HikariToy 0.7.1 Development : croix directionnelle fluide avec glissement continu droite/haut/gauche/bas sans lever le doigt, multitouch ABXY et touches sécurisées lors du repliage. Compatibilité Infinite Fusion non encore validée sur appareil."
 }
