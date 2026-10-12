@@ -1,7 +1,7 @@
 {
-  "versionCode": 7020087,
-  "versionName": "0.7.2-dev.87",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-87/HikariToy-development.apk",
-  "sha256": "5e41dea08bc68307516ff8f4b317a3c0b28e49e6ebaead76cdaa1348908dc782",
-  "changelog": "HikariToy 0.7.2 Development : profils manette distincts Fold ouvert/ferme (taille, opacite, position, retour tactile) et diagnostic des erreurs de chargement d'images presentes dans le journal natif. Infinite Fusion reste experimental et necessite des tests sur appareil."
+  "versionCode": 7030088,
+  "versionName": "0.7.3-dev.88",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-88/HikariToy-development.apk",
+  "sha256": "66b886cb712c53fe1cdfa8d4fdd67d1eec7a1a825e030a316dbd22af41a40a02",
+  "changelog": "HikariToy 0.7.3 Development : icone carpe koi officielle et nom HikariToy, boutons L1/R1 au-dessus de SELECT/START, editeur PAD par glisser-deposer des trois groupes de commandes avec profils Fold separes. Infinite Fusion reste experimental et doit etre valide sur appareil."
 }
