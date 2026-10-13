@@ -1,7 +1,7 @@
 {
-  "versionCode": 7040090,
-  "versionName": "0.7.4-dev.90",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-90/HikariToy-development.apk",
-  "sha256": "b6f46e5a5eef55de1b1c9aeeed85e1c4545bfe95db0ce3ba015d595c8c5d7c4c",
-  "changelog": "HikariToy 0.7.4 Development : la croix directionnelle et ABXY restent deux blocs deplaçables, et START, SELECT, L1, L2, R1, R2 sont deplacables et redimensionnables independamment. Guides magnetiques d'alignement et repere de taille, sauvegarde distincte Fold ferme/ouvert. Le test DIAG Hoenn reste experimental."
+  "versionCode": 7050091,
+  "versionName": "0.7.5-dev.91",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-91/HikariToy-development.apk",
+  "sha256": "855c85a6f4471fdd6cee3f1625f8aba8013ff1a2fadb46497c7d15e251a697f0",
+  "changelog": "HikariToy 0.7.5 Development : harmonie visuelle carpe koi, palette bleu nuit cyan violet, navigation et jaquettes unifiees, commandes SDL translucides et contrastes actifs, editeur PAD harmonise. Les positions des boutons, les sauvegardes et la croix fluide sont conservees."
 }
