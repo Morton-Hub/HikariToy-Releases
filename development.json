@@ -1,7 +1,7 @@
 {
-  "versionCode": 7030088,
-  "versionName": "0.7.3-dev.88",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-88/HikariToy-development.apk",
-  "sha256": "66b886cb712c53fe1cdfa8d4fdd67d1eec7a1a825e030a316dbd22af41a40a02",
-  "changelog": "HikariToy 0.7.3 Development : icone carpe koi officielle et nom HikariToy, boutons L1/R1 au-dessus de SELECT/START, editeur PAD par glisser-deposer des trois groupes de commandes avec profils Fold separes. Infinite Fusion reste experimental et doit etre valide sur appareil."
+  "versionCode": 7030089,
+  "versionName": "0.7.3-dev.89",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-89/HikariToy-development.apk",
+  "sha256": "9f32db402854cd424c23cb68ad5f7bda8ec2b5e4ea9e82e32feaf7ae82cca826",
+  "changelog": "HikariToy 0.7.3 Development : icone carpe koi officielle et nom HikariToy, boutons L1/R1 au-dessus de SELECT/START, editeur PAD par glisser-deposer des trois groupes de commandes avec profils Fold separes. DIAG ajoute un test reversible du prechargement du titre Hoenn (sauvegarde et restauration du script local apres confirmation). Infinite Fusion reste experimental et doit etre valide sur appareil.Infinite Fusion reste experimental et doit etre valide sur appareil."
 }
