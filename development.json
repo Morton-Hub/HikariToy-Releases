@@ -1,7 +1,7 @@
 {
-  "versionCode": 7050091,
-  "versionName": "0.7.5-dev.91",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-91/HikariToy-development.apk",
-  "sha256": "855c85a6f4471fdd6cee3f1625f8aba8013ff1a2fadb46497c7d15e251a697f0",
-  "changelog": "HikariToy 0.7.5 Development : harmonie visuelle carpe koi, palette bleu nuit cyan violet, navigation et jaquettes unifiees, commandes SDL translucides et contrastes actifs, editeur PAD harmonise. Les positions des boutons, les sauvegardes et la croix fluide sont conservees."
+  "versionCode": 7060092,
+  "versionName": "0.7.6-dev.92",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-92/HikariToy-development.apk",
+  "sha256": "18725ce20b7f956d98babeba6d18e85a90966eae635386510cabe9969ce43460",
+  "changelog": "HikariToy 0.7.6 Development : affichage x2 memorise par jeu et par mode Fold, protection de retour en mode normal apres demarrage graphique interrompu, actualisation des sprites Hoenn pendant le jeu apres activation volontaire et relance unique depuis DIAG, instruments de mesure du demarrage SDL. Correctif du menu-titre Hoenn toujours optionnel. Sauvegardes preservees. Fonctionnalites experimentales a verifier sur appareil."
 }
