@@ -1,7 +1,7 @@
 {
-  "versionCode": 7100096,
-  "versionName": "0.7.10-dev.96",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-96/HikariToy-development.apk",
-  "sha256": "2a1d15b49f3df4cfedebefc0e64ecf6168b9b7d309ac035db3d8026eb09a5b76",
-  "changelog": "HikariToy 0.7.10 Development : correction du diagnostic de sprites : les traces Ruby passent par System.puts et apparaissent dans le journal Android meme sans mode debug. Marqueurs hook_loaded et first_load, et details de telechargement/decodage dans DIAG. Mise a niveau automatique des correctifs v1/v2/v3 reconnus et sauvegarde intacte ; fichiers du jeu et sauvegardes preserves. Verification sur Fold necessaire : affichage des sprites non encore confirme."
+  "versionCode": 7110097,
+  "versionName": "0.7.11-dev.97",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-97/HikariToy-development.apk",
+  "sha256": "db1beab34629a3c024547eea4ec9e56f76c53fb8a3b2ef584b22368d91f57040",
+  "changelog": "HikariToy 0.7.11 Development : mode ON/OFF experimental acces direct aux nouveaux sprites avant JOUER, pour eviter une reindexation globale du moteur mkxp-z a chaque nouvelle spritesheet. Sauvegarde et restauration exactes du mkxp.json original, autres reglages et sauvegardes preserves. Les recherches deviennent sensibles a la casse ; desactiver si certaines ressources ne chargent plus. Le journal HIKARI_SPRITE v4 permet de comparer les temps de telechargement et de cache."
 }
