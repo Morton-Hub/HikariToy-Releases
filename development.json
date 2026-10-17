@@ -1,7 +1,7 @@
 {
-  "versionCode": 7070093,
-  "versionName": "0.7.7-dev.93",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-93/HikariToy-development.apk",
-  "sha256": "47b895b5c4b2c4dfdcde4c9a7630216ce295b003661a04e97735faca9a832e82",
-  "changelog": "HikariToy 0.7.7 Development : nouveaux interrupteurs ON/OFF directement sur chaque fiche RPG Maker avant JOUER. Actualisation des sprites Hoenn, demarrage allege et affichage x2 (Fold ferme/ouvert) reglables avant le lancement, etats reels synchronises avec le jeu, modifications reversibles. DIAG affiche le statut du correctif sprites. Sauvegardes preservees ; affichage des sprites en combat toujours a valider sur l'appareil."
+  "versionCode": 7080094,
+  "versionName": "0.7.8-dev.94",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-94/HikariToy-development.apk",
+  "sha256": "aba247d07df688d6facbb1994e0f338ff47ef7e8a0033073e7dececbbf41297b",
+  "changelog": "HikariToy 0.7.8 Development : verification du fichier de sprite exact pendant la partie (fichier physique et resolution Ruby), resultat de telechargement et de decodage dans DIAG, mise a niveau automatique et sure du correctif de cache v1 deja active. Aucun retelechargement force, scans ou modification des sauvegardes. Boutons ON/OFF et affichage Fold conserves ; diagnostic de premier sprite invisible a tester."
 }
