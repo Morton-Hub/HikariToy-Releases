@@ -1,7 +1,7 @@
 {
-  "versionCode": 7080094,
-  "versionName": "0.7.8-dev.94",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-94/HikariToy-development.apk",
-  "sha256": "aba247d07df688d6facbb1994e0f338ff47ef7e8a0033073e7dececbbf41297b",
-  "changelog": "HikariToy 0.7.8 Development : verification du fichier de sprite exact pendant la partie (fichier physique et resolution Ruby), resultat de telechargement et de decodage dans DIAG, mise a niveau automatique et sure du correctif de cache v1 deja active. Aucun retelechargement force, scans ou modification des sauvegardes. Boutons ON/OFF et affichage Fold conserves ; diagnostic de premier sprite invisible a tester."
+  "versionCode": 7090095,
+  "versionName": "0.7.9-dev.95",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-95/HikariToy-development.apk",
+  "sha256": "cb4773f027d34a05bdf846e33ba4aa1a403e04adc842ddde54306be6fbab9ec8",
+  "changelog": "HikariToy 0.7.9 Development : nouveau correctif de l'index de fichiers natif mkxp-z apres telechargement reussi de spritesheet. System.reload_cache permet au moteur de reconnaitre les nouveaux PNG sans relancer le jeu, uniquement sur nouveaux telechargements. Migration automatique des correctifs v1/v2 deja actifs ; sauvegardes et choix de sprites conserves. Mesure du temps de reconstruction de l'index dans DIAG ; a tester sur appareil."
 }
