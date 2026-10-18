@@ -1,7 +1,7 @@
 {
-  "versionCode": 7140100,
-  "versionName": "0.7.14-dev.100",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-100/HikariToy-development.apk",
-  "sha256": "8237d84f7abe070cfc689b81034958b93391cddd5a40da122802ed76f4296132",
-  "changelog": "HikariToy 0.7.14 Development : optimisation reversible des icones de fusion equipe et PC Hoenn. Remplace les boucles Ruby de copie pixel par pixel par clear_rect + blt natif, uniquement sur deux scripts officiels reconnus. Test a froid sur Fold requis, aucune garantie de gain avant mesure. Ne resout pas les 23-29 secondes de reindexation native apres nouveaux sprites ; acces direct OFF recommande pour la carte. Sauvegardes originales preservees, relancer Infinite Fusion."
+  "versionCode": 7150101,
+  "versionName": "0.7.15-dev.101",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-101/HikariToy-development.apk",
+  "sha256": "8c576ea7b975285a253e9ef0d8d3ab3f10775faf2f904b69fa4f80cd5f4b3278",
+  "changelog": "HikariToy 0.7.15 Development : corrige le PC Hoenn semblant fige pendant la fusion quand une instruction invisible attend A ou B. Ignore uniquement les deux messages bloquants de selection du second Pokemon, sans changer les validations ni les regles de fusion. Script officiel reconnu uniquement, sauvegarde originale, restauration via option Fusion PC sans pause. Conserve optimisation des icones, filtre PC et acces direct OFF pour la fluidite sur la carte. Relancer le jeu apres mise a jour."
 }
