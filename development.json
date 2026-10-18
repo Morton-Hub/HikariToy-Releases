@@ -1,7 +1,7 @@
 {
-  "versionCode": 7110097,
-  "versionName": "0.7.11-dev.97",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-97/HikariToy-development.apk",
-  "sha256": "db1beab34629a3c024547eea4ec9e56f76c53fb8a3b2ef584b22368d91f57040",
-  "changelog": "HikariToy 0.7.11 Development : mode ON/OFF experimental acces direct aux nouveaux sprites avant JOUER, pour eviter une reindexation globale du moteur mkxp-z a chaque nouvelle spritesheet. Sauvegarde et restauration exactes du mkxp.json original, autres reglages et sauvegardes preserves. Les recherches deviennent sensibles a la casse ; desactiver si certaines ressources ne chargent plus. Le journal HIKARI_SPRITE v4 permet de comparer les temps de telechargement et de cache."
+  "versionCode": 7120098,
+  "versionName": "0.7.12-dev.98",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-98/HikariToy-development.apk",
+  "sha256": "7fddfc4bdd99dc683d61bd5046d667aaf52a6d25a6a27c47b0f88e5ca8b33c2d",
+  "changelog": "HikariToy 0.7.12 Development : optimisation de la fusion dans les boites PC Hoenn. Remplace le rechargement des 30 icones lors du filtrage des Pokemon incompatibles par un simple changement d'opacite. Correctif ON par defaut a la premiere ouverture, reversible depuis la fiche du jeu avec sauvegarde exacte du script original. Aucun changement des Pokemon, des sauvegardes, des telechargements ni des regles de fusion. Diagnostic HIKARI_PC_FILTER pour confirmer sur appareil."
 }
