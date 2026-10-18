@@ -1,7 +1,7 @@
 {
-  "versionCode": 7150104,
-  "versionName": "0.7.15-dev.104",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-104/HikariToy-development.apk",
-  "sha256": "60dd2a37d2f4ca636aa4cb86b5e78d6e0594189ed766a9550284f2d20f33bb69",
+  "versionCode": 7150105,
+  "versionName": "0.7.15-dev.105",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-105/HikariToy-development.apk",
+  "sha256": "0209f93cc00330842530f08bf0756b631c3b4bdd6285f48d184fe93a3b100c15",
   "changelog": "HikariToy 0.7.15 Development : corrige le PC Hoenn semblant fige pendant la fusion quand une instruction invisible attend A ou B. Ignore uniquement les deux messages bloquants de selection du second Pokemon, sans changer les validations ni les regles de fusion. Script officiel reconnu uniquement, sauvegarde originale, restauration via option Fusion PC sans pause. Conserve optimisation des icones, filtre PC et acces direct OFF pour la fluidite sur la carte. Relancer le jeu apres mise a jour."
 }
