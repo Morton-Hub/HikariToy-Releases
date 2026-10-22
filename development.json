@@ -3,5 +3,5 @@
   "versionName": "0.8.0-dev.151",
   "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-151/HikariToy-development.apk",
   "sha256": "ee48a15bcd8017b49233547a82ce74f299f1b8c964503d7d008e79059875d30f",
-  "changelog": "HikariToy 0.8.0 Development Preview : refonte initiale de la console. Accueil avec carte Reprendre, bouton JOUER prioritaire, fiche du jeu et diagnostics repliables, reglages RPG Maker simplifies sans toucher aux correctifs Hoenn et a leurs backups. Architecture Compose decoupee en ecrans et composants, workflows CI allegés. Le moteur et les sauvegardes restent inchanges ; garder Acces direct sprites OFF pour la fluidite sur la carte. Refonte encore en test sur Fold : envoyer tout probleme avant la version stable."
+  "changelog": "HikariToy 0.8.0-dev.151 : trois pré-réglages d'affichage pour Pokémon Infinite Fusion Hoenn — Recommandé • Fold (protection Screen Size Ruby), Compatibilité graphique (OpenGL alternatif) et Affichage standard. Application en un clic depuis la fiche du jeu, avec contrôles de compatibilité et retour arrière en cas d'erreur. Sauvegardes Pokémon et optimisations sprites/PC/fusion préservées. Fermer complètement la session Pokémon puis relancer après avoir changé de profil. Correction visuelle à confirmer sur Fold."
 }
