@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000146,
-  "versionName": "0.8.0-dev.146",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-146/HikariToy-development.apk",
-  "sha256": "5df334d1a84501f6da4240f01c86e4006d28b28d8ccdd9b7862fa5cbf22ba6b7",
+  "versionCode": 8000147,
+  "versionName": "0.8.0-dev.147",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-147/HikariToy-development.apk",
+  "sha256": "7389eb12ad52402eb831d4f31714c555634f5d6be99252f448a8495232b81c5e",
   "changelog": "HikariToy 0.8.0 Development Preview : refonte initiale de la console. Accueil avec carte Reprendre, bouton JOUER prioritaire, fiche du jeu et diagnostics repliables, reglages RPG Maker simplifies sans toucher aux correctifs Hoenn et a leurs backups. Architecture Compose decoupee en ecrans et composants, workflows CI allegés. Le moteur et les sauvegardes restent inchanges ; garder Acces direct sprites OFF pour la fluidite sur la carte. Refonte encore en test sur Fold : envoyer tout probleme avant la version stable."
 }
