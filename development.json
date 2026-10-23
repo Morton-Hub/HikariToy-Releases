@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000154,
-  "versionName": "0.8.0-dev.154",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-154/HikariToy-development.apk",
-  "sha256": "e49a3dd966991b7de75c0dd8dafc539f53a788246bfe43d96d836804ef2ccd7c",
-  "changelog": "HikariToy 0.8.0-dev.154 — correctif expérimental du redimensionnement Pokémon Infinite Fusion Hoenn sur Fold. Le script Screen Size reconnu sauvegarde la taille native avant Graphics.resize_screen(512×384), puis la restaure immédiatement via Graphics.resize_window, pour éviter qu'une image 512×384 reste dans un cadre 1028×771. Migration automatique depuis la protection v1 au nouveau lancement du dossier InfiniteFusion_Release_2026-07-21_11-43. Sauvegardes Pokémon et autres jeux inchangés, restauration du script original possible dans la fiche du jeu. DIAG indique HIKARI WINDOW SYNC v2 et conserve le marqueur Ruby HIKARI_WINDOW_SYNC. Essai visuel encore nécessaire sur Fold ; ne pas désinstaller HikariToy."
+  "versionCode": 8000155,
+  "versionName": "0.8.0-dev.155",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-155/HikariToy-development.apk",
+  "sha256": "e3eaf6111cfdcf03bbc18164bbab95747b5bd59afa573259f2e305e6380798c6",
+  "changelog": "HikariToy 0.8.0 Development Preview : refonte initiale de la console. Accueil avec carte Reprendre, bouton JOUER prioritaire, fiche du jeu et diagnostics repliables, reglages RPG Maker simplifies sans toucher aux correctifs Hoenn et a leurs backups. Architecture Compose decoupee en ecrans et composants, workflows CI allegés. Le moteur et les sauvegardes restent inchanges ; garder Acces direct sprites OFF pour la fluidite sur la carte. Refonte encore en test sur Fold : envoyer tout probleme avant la version stable."
 }
