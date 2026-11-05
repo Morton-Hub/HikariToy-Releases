@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000165,
-  "versionName": "0.8.0-dev.165",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-165/HikariToy-development.apk",
-  "sha256": "9a4edc7f96219577e7f0ab7be157c07b3b5bf6945195cab2891e3c0eeacb2131",
+  "versionCode": 8000166,
+  "versionName": "0.8.0-dev.166",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-166/HikariToy-development.apk",
+  "sha256": "0e27abe94bc57242c039af3775f0fb75034488f9e1aa92148c1a08b66ba984e1",
   "changelog": "HikariToy 0.8.0 Development 165 : la bibliothèque s'affiche à jour dès l'ouverture (un jeu ne reste plus caché jusqu'à l'onglet Bibliothèque), analyse du dossier Téléchargements bien plus rapide, les jeux GB/GBA/NES/SNES ne redémarrent plus quand tu plies ou tournes le Fold, manettes Switch dans les jeux RPG Maker (étiquettes Nintendo respectées, + / - / ZL / ZR utilisables). Sauvegardes inchangées."
 }
