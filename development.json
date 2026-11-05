@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000163,
-  "versionName": "0.8.0-dev.163",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-163/HikariToy-development.apk",
-  "sha256": "a17a775aaa1e04231c3d1ea478d605df5597305c24ce2f0ae53ec924124985b2",
+  "versionCode": 8000164,
+  "versionName": "0.8.0-dev.164",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-164/HikariToy-development.apk",
+  "sha256": "c0f48a3102884c9d2d4ad16aba99c7aeba9f9e4a40d6fc7a50ea9572b3154ed4",
   "changelog": "HikariToy 0.8.0 Development 162 : lancement rapide des jeux RPG Maker (Paramètres > Lancement rapide : Infinite Fusion démarre en quelques secondes au lieu d'environ 30 s), image d'Infinite Fusion en plein écran sur le Fold (fin du quart d'écran), libellés et orthographe revus dans tout HikariToy, étiquettes des manettes Switch respectées, moteur de correctifs Hoenn unifié. Sauvegardes inchangées."
 }
