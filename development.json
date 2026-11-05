@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000161,
-  "versionName": "0.8.0-dev.161",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-161/HikariToy-development.apk",
-  "sha256": "dcd4d8f8f14b24ea40ee0ee91fc36a630f46ae208c70b68266170b66c78905b6",
-  "changelog": "HikariToy 0.8.0 Development Preview : refonte initiale de la console. Accueil avec carte Reprendre, bouton JOUER prioritaire, fiche du jeu et diagnostics repliables, reglages RPG Maker simplifies sans toucher aux correctifs Hoenn et a leurs backups. Architecture Compose decoupee en ecrans et composants, workflows CI allegés. Le moteur et les sauvegardes restent inchanges ; garder Acces direct sprites OFF pour la fluidite sur la carte. Refonte encore en test sur Fold : envoyer tout probleme avant la version stable."
+  "versionCode": 8000162,
+  "versionName": "0.8.0-dev.162",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-162/HikariToy-development.apk",
+  "sha256": "32cbb4aab07d360f0c98f50fa33c79bb6f939c3b6018a5b49838fd64c300ec31",
+  "changelog": "HikariToy 0.8.0 Development 162 : lancement rapide des jeux RPG Maker (Paramètres > Lancement rapide : Infinite Fusion démarre en quelques secondes au lieu d'environ 30 s), image d'Infinite Fusion en plein écran sur le Fold (fin du quart d'écran), libellés et orthographe revus dans tout HikariToy, étiquettes des manettes Switch respectées, moteur de correctifs Hoenn unifié. Sauvegardes inchangées."
 }
