@@ -1,7 +1,7 @@
 {
-  "versionCode": 8000166,
-  "versionName": "0.8.0-dev.166",
-  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-166/HikariToy-development.apk",
-  "sha256": "0e27abe94bc57242c039af3775f0fb75034488f9e1aa92148c1a08b66ba984e1",
-  "changelog": "HikariToy 0.8.0 Development 165 : la bibliothèque s'affiche à jour dès l'ouverture (un jeu ne reste plus caché jusqu'à l'onglet Bibliothèque), analyse du dossier Téléchargements bien plus rapide, les jeux GB/GBA/NES/SNES ne redémarrent plus quand tu plies ou tournes le Fold, manettes Switch dans les jeux RPG Maker (étiquettes Nintendo respectées, + / - / ZL / ZR utilisables). Sauvegardes inchangées."
+  "versionCode": 8000167,
+  "versionName": "0.8.0-dev.167",
+  "apkUrl": "https://github.com/Morton-Hub/HikariToy-Releases/releases/download/dev-167/HikariToy-development.apk",
+  "sha256": "865eddf243e06219f4a4638db610c1600cc2720be4d2f2d05eef1b25a268c522",
+  "changelog": "HikariToy 0.8.0 Development Preview : refonte initiale de la console. Accueil avec carte Reprendre, bouton JOUER prioritaire, fiche du jeu et diagnostics repliables, reglages RPG Maker simplifies sans toucher aux correctifs Hoenn et a leurs backups. Architecture Compose decoupee en ecrans et composants, workflows CI allegés. Le moteur et les sauvegardes restent inchanges ; garder Acces direct sprites OFF pour la fluidite sur la carte. Refonte encore en test sur Fold : envoyer tout probleme avant la version stable."
 }
